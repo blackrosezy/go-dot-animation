@@ -77,12 +77,7 @@ This technique was selected for its ability to produce smooth, continuous color 
 ## Setup and Execution
 
 1. Ensure Go is installed on your system.
-2. Install the Ebitengine library:
-   ```
-   go get github.com/hajimehoshi/ebiten/v2
-   ```
-3. Save the provided code in a file named `main.go`.
-4. Execute the program:
+2. Execute the program:
    ```
    go run main.go
    ```
