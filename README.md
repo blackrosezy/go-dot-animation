@@ -1,5 +1,7 @@
 # Bouncing Dot Animation
 
+![](screenshot.PNG)
+
 ## Overview
 
 This project implements a simple animation of a bouncing dot with a colorful trail using the Ebitengine game library in Go. It demonstrates basic concepts of physics simulation and color theory in computer graphics.

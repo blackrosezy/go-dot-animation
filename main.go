@@ -8,8 +8,8 @@ import (
 )
 
 const (
-	screenWidth  = 640
-	screenHeight = 480
+	screenWidth  = 480
+	screenHeight = 300
 	dotRadius    = 10
 )
 
